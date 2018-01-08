@@ -1,7 +1,7 @@
-TextAtAnyCost
+PHP MS Word Parser
 =============
 
-Old PHP scripts to read text content from different binary formats:
+PHP scripts to read text content from different binary formats:
 * DOC/PPT (using self-written CFB basic module)
 * PDF
 * RTF
